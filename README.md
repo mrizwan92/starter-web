@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## MY change
 
 Everything is mortal except GOD
+
+### Copyright
+
+3ge6eg6dge73evgqfdufehdjwfedvdyfdvqevdwvfjhdvadfvd
